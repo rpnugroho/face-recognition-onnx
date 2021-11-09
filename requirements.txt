@@ -1,0 +1,9 @@
+numpy
+opencv-python
+onnx
+onnxruntime
+imutils
+dlib
+fastapi
+python-multipart
+uvicorn
